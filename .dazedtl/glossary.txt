@@ -1,4 +1,44 @@
-# Add character glossary entries here
+# Game glossary — V_ikusei (VTuber cousin)
+
+# Characters
+栞梨 (Shiori) - Female; the protagonist's younger cousin and live-in VTuber. This is her real, off-stream name. Blunt and guarded at first, gradually warm; calls the protagonist お兄ちゃん; casual endings, stutters when flustered (う、うそ), soft えへへ when pleased. Do not merge with her stream persona.
+しおりん (Shiorin) - Female; Shiori's on-stream VTuber persona. Cutesy, playful stream voice with ～ and ♡; calls viewers みんな; refers to herself as しおりん. Keep distinct from 栞梨 (Shiori): the public face belongs to viewers, the real Shiori to the protagonist.
+主人公 (Protagonist) - Male; the player character, Shiori's older cousin, first-person 俺. Calm, teasing, often the one proposing escalating situations. Nameplate label 主人公 renders as "Protagonist"; in running text use "I/me" naturally.
+おば (Aunt) - Female; the protagonist's aunt, Shiori's mother figure. Minor speaking role in the intro.
+
+# Coverage rows (bare source/English pairs also count as glossary terms)
+栞梨 (Shiori)
+しおりん (Shiorin)
+主人公 (Protagonist)
+おば (Aunt)
+
+# VTuber / SNS terms
+VTuber (VTuber) - keep as VTuber, including in compounds.
+配信 (stream) - a livestream; 配信する = to stream; 配信中 = on stream.
+リスナー (viewer) - a viewer in chat. Render リスナーさん as "viewer(s)" or "chat", never "listener-san".
+登録者 (subscriber) - channel subscriber; チャンネル登録者 = channel subscribers.
+スパチャ (Super Chat) - YouTube-style paid chat; keep "Super Chat".
+SNS (SNS) - social media; keep SNS for the in-game activity, menu and minigame.
+Vモデル (V-Model) - Shiori's VTuber avatar/model; Vモデル製作 = V-Model Production.
+配信ミニゲーム (Stream minigame) / SNSミニゲーム (SNS minigame) - the two minigame activities.
+未読オート (Unread Auto) / 未読スキップ (Unread Skip) - read-history toggle labels; keep the "ON/OFF" suffix.
+
+# Gauges / actions
+好感度 (Affection) - relationship gauge; high is good.
+依存度 (Dependency) - relationship gauge; high is good.
+Hポイント (H Points) - currency spent to unlock H events; keep "H Points".
+体力 (Stamina) - action resource; スタミナ also Stamina.
+所持金 (Money) - cash on hand.
+タスク (task) - the daily task list; タスク消化 = tasks completed, タスク未消化 = tasks incomplete.
+お仕事 (Work) - the work action; お散歩 (Walk); 睡眠 (Sleep); 会話 (Talk); 配信 (Stream); SNS活動 (SNS Activity); Hする (Have Sex).
+
+# Items / H terms
+媚薬 (Aphrodisiac); アナルプラグ (Anal plug); バイブローター (Vibe rotor); 精力剤 (Stamina tonic); 睡眠薬 (Sleeping pills); エッチポイント (H Points).
+正常位 (Missionary); バック (Back); 寝バック (Lying Back); 駅弁 (Standing Carry); アナル (Anal); 手コキ (Handjob); 手マン (Fingering); 射精 (Ejaculation); 中出し (Creampie); 絶頂 (Climax); イク (cum).
+衣装 (Costume); パーカー (Parka); ナース服 (Nurse Outfit); バニー服 (Bunny Suit); パジャマ (Pajamas); ショーパン (Short Shorts); ニーソ (Thigh-Highs); 脚衣 (Legwear); 帽子/耳 (Hat/Ears); ブラ (Bra); パンツ (Panties).
+
+# UI labels
+セーブ (Save); ロード (Load); スロット選択 (Select Slot); 購入 (Buy); 削除 (Delete); 店名 (Shop Name); 店舗説明 (Shop Description); 店を選んでください (Choose a shop); 家へ帰る (Go Home); タスク消化 (Tasks Completed); タスク未消化 (Tasks Incomplete); 配信 (Stream).
 
 # ── Base Glossary (auto-appended from glossary_base.txt — do not edit below) ──
 # Honorifics
