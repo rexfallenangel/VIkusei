@@ -1,0 +1,62 @@
+# BEGIN DazedTL Len patch files
+# Only reviewed runtime patch files and repository metadata belong in Git.
+/*
+!/BepInEx/
+/BepInEx/*
+!/gameupdate/
+/gameupdate/*
+!/BepInEx/config/
+/BepInEx/config/*
+!/BepInEx/core/
+/BepInEx/core/*
+!/BepInEx/plugins/
+/BepInEx/plugins/*
+!/BepInEx/plugins/VikuseiTL/
+/BepInEx/plugins/VikuseiTL/*
+!/BepInEx/plugins/VikuseiTL/translations/
+/BepInEx/plugins/VikuseiTL/translations/*
+!/.doorstop_version
+!/.gitattributes
+!/.gitignore
+!/BepInEx/config/BepInEx.cfg
+!/BepInEx/config/dazedtl.vikusei.tl.cfg
+!/BepInEx/core/0Harmony.dll
+!/BepInEx/core/0Harmony.xml
+!/BepInEx/core/0Harmony20.dll
+!/BepInEx/core/BepInEx.Harmony.dll
+!/BepInEx/core/BepInEx.Harmony.xml
+!/BepInEx/core/BepInEx.Preloader.dll
+!/BepInEx/core/BepInEx.Preloader.xml
+!/BepInEx/core/BepInEx.dll
+!/BepInEx/core/BepInEx.xml
+!/BepInEx/core/HarmonyXInterop.dll
+!/BepInEx/core/Mono.Cecil.Mdb.dll
+!/BepInEx/core/Mono.Cecil.Pdb.dll
+!/BepInEx/core/Mono.Cecil.Rocks.dll
+!/BepInEx/core/Mono.Cecil.dll
+!/BepInEx/core/MonoMod.RuntimeDetour.dll
+!/BepInEx/core/MonoMod.RuntimeDetour.xml
+!/BepInEx/core/MonoMod.Utils.dll
+!/BepInEx/core/MonoMod.Utils.xml
+!/BepInEx/plugins/VikuseiTL/VikuseiTL.dll
+!/BepInEx/plugins/VikuseiTL/translations/dict.json
+!/GameUpdate.bat
+!/GameUpdate_linux.sh
+!/README.md
+!/doorstop_config.ini
+!/gameupdate/TranslationUpdateCheck.js
+!/gameupdate/patch-config.example.txt
+!/gameupdate/patch.ps1
+!/gameupdate/patch.sh
+!/winhttp.dll
+# END DazedTL Len patch files
+
+# BEGIN DazedTL portable translation settings
+!/.dazedtl/
+/.dazedtl/*
+!/.dazedtl/glossary.txt
+!/.dazedtl/settings.json
+!/.dazedtl/skills/
+/.dazedtl/skills/*
+!/.dazedtl/skills/*.[mM][dD]
+# END DazedTL portable translation settings
