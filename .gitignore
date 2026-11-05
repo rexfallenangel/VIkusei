@@ -35,8 +35,6 @@ cache/
 /BepInEx/*
 !/gameupdate/
 /gameupdate/*
-!/BepInEx/config/
-/BepInEx/config/*
 !/BepInEx/plugins/
 /BepInEx/plugins/*
 !/BepInEx/plugins/VikuseiTL/
@@ -45,7 +43,6 @@ cache/
 /BepInEx/plugins/VikuseiTL/images/*
 !/BepInEx/plugins/VikuseiTL/translations/
 /BepInEx/plugins/VikuseiTL/translations/*
-!/.doorstop_version
 !/.gitattributes
 !/.gitignore
 !/BepInEx/plugins/VikuseiTL/VikuseiTL.dll
@@ -113,12 +110,10 @@ cache/
 !/GameUpdate.bat
 !/GameUpdate_linux.sh
 !/README.md
-!/doorstop_config.ini
 !/gameupdate/TranslationUpdateCheck.js
 !/gameupdate/patch-config.example.txt
 !/gameupdate/patch.ps1
 !/gameupdate/patch.sh
-!/winhttp.dll
 # END DazedTL Len patch files
 
 # BEGIN DazedTL portable translation settings
