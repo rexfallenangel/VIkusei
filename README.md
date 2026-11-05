@@ -1,4 +1,5 @@
 # Apply Patch
+0. Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) in the game.
 1. Click Code
 2. Click Download ZIP
 3. Extract to game folder and Replace All.

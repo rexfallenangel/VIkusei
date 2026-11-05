@@ -18,6 +18,16 @@ logs/
 cache/
 # END DazedTL Len project work
 
+# BEGIN BepInEx runtime (installed locally, not part of the patch repository)
+/BepInEx/core/
+/BepInEx/config/
+/BepInEx/cache/
+/BepInEx/LogOutput.log
+/winhttp.dll
+/doorstop_config.ini
+/.doorstop_version
+# END BepInEx runtime
+
 # BEGIN DazedTL Len patch files
 # Only reviewed runtime patch files and repository metadata belong in Git.
 /*
