@@ -48,8 +48,6 @@ cache/
 !/.doorstop_version
 !/.gitattributes
 !/.gitignore
-!/BepInEx/config/BepInEx.cfg
-!/BepInEx/config/dazedtl.vikusei.tl.cfg
 !/BepInEx/plugins/VikuseiTL/VikuseiTL.dll
 !/BepInEx/plugins/VikuseiTL/images/001_Hポイント.png
 !/BepInEx/plugins/VikuseiTL/images/002_SNS活動.png
