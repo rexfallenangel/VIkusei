@@ -115,6 +115,11 @@ cache/
 !/BepInEx/plugins/VikuseiTL/images/068_配信3.png
 !/BepInEx/plugins/VikuseiTL/images/069_電気屋.png
 !/BepInEx/plugins/VikuseiTL/images/070_音量パネル.png
+!/BepInEx/plugins/VikuseiTL/images/080_ゲージ背面1.png
+!/BepInEx/plugins/VikuseiTL/images/081_カウンターフレーム.png
+!/BepInEx/plugins/VikuseiTL/images/082_バックパネル.png
+!/BepInEx/plugins/VikuseiTL/images/083_画面サイズバックパネル.png
+!/BepInEx/plugins/VikuseiTL/images/084_メッセージパネル.png
 !/BepInEx/plugins/VikuseiTL/images/index.json
 !/BepInEx/plugins/VikuseiTL/translations/dict.json
 !/GameUpdate.bat
