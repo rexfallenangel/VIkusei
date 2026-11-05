@@ -112,6 +112,7 @@ cache/
 !/README.md
 !/gameupdate/TranslationUpdateCheck.js
 !/gameupdate/patch-config.example.txt
+!/gameupdate/patch-config.txt
 !/gameupdate/patch.ps1
 !/gameupdate/patch.sh
 # END DazedTL Len patch files

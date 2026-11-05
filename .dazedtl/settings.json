@@ -3,5 +3,9 @@
   "languages": {
     "source": "Japanese",
     "target": "English"
+  },
+  "gameUpdate": {
+    "repo": "VIkusei",
+    "written": "ff40f8567ba25507530921ea743c5b7019e000680e7a19c5b8846b31143b0ccb"
   }
 }
